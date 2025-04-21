@@ -1,4 +1,4 @@
 # Ignore everything by default
 *
-!trackers/
-!trackers/**
+!tracker_stubs/
+!tracker_stubs/**
