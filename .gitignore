@@ -1,4 +1,4 @@
 # Ignore everything by default
 *
-!tracker_stubs/
-!tracker_stubs/**
+!court_line_detector/
+!court_line_detector/**
