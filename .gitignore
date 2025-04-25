@@ -1,4 +1,4 @@
 # Ignore everything by default
 *
-!court_line_detector/
-!court_line_detector/**
+!mini_court/
+!mini_court/**
