@@ -1,6 +1,3 @@
 # Ignore everything by default
 *
-# !main.py
-!tennis_court_keypoint_training.ipynb
-!yolo_inference.py
-!yolov8x.pt
+!main.py
