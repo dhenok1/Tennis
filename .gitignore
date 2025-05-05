@@ -1,4 +1,6 @@
 # Ignore everything by default
 *
-!output_videos/
-!output_videos/**
+# !main.py
+!tennis_court_keypoint_training.ipynb
+!yolo_inference.py
+!yolov8x.pt
