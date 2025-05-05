@@ -1,4 +1,4 @@
 # Ignore everything by default
 *
-!analysis/
-!analysis/**
+!constants/
+!constants/**
